@@ -1,3 +1,6 @@
+# This script is for translating unicode from a Google Docs sheet into 
+# a readable 2D format. A project for a previous application.
+
 import requests
 from bs4 import BeautifulSoup
 
